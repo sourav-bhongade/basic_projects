@@ -1,2 +1,3 @@
-# basic_projects
-A collection of simple, beginner-friendly projects made for learning and experimentation. These projects focus on exploring concepts and building foundational skills rather than showcasing advanced or large-scale work. Ideal for anyone starting out and looking for easy, hands-on ways to learn and grow!
+# run dion run sratch game
+
+A basic Scratch project inspired by the Chrome Dino game, with added modifications for a unique twist. Help the dino dodge obstacles and survive as long as possible. Perfect for beginners exploring game development in Scratch or anyone looking for a fun, simple game to play and learn from!
